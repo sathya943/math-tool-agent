@@ -9,3 +9,8 @@ class TrigonometricCalculator:
     def cos(self, x: float) -> float:
         """Returns the cosine of x (in radians)."""
         return math.cos(x)
+    
+    def tan(self, x: float) -> float:
+        """Returns the tangent of x (in radians)."""
+        return math.tan(x)
+    
